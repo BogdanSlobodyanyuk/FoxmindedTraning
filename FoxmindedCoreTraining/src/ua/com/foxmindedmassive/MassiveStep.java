@@ -1,6 +1,6 @@
 package ua.com.foxmindedmassive;
 
-public class Massive {
+public class MassiveStep {
 
 	public static void main(String[] args) {
 
