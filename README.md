@@ -1,2 +1,2 @@
 # FoxmindedTraning
-Traning of Foxminded team
+Traning of Foxminded team First step
